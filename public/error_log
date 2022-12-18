@@ -1,0 +1,4 @@
+[21-Sep-2022 11:40:59 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/sinhvien/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 491
+[21-Sep-2022 11:41:16 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/sinhvien/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 491
+[21-Sep-2022 11:41:20 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/sinhvien/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[21-Sep-2022 11:43:08 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/sinhvien/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
